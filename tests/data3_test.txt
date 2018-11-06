@@ -1,0 +1,8 @@
+Entity,Buy/Sell,AgreedFx,Currency,InstructionDate,SettlementDate,Units,Price per unit
+entity1,B,0.50,SAR,01 Mar 2018,03 Mar 2018,200,100.25
+entity2,B,0.60,SGP,01 Mar 2018,03 Mar 2018,300,155.2
+entity3,S,0.55,SAR,01 Mar 2018,01 Mar 2018,450,150.5
+entity4,S,0.43,PKR,01 Mar 2018,04 Mar 2018,300,80
+entity5,S,0.70,AED,01 Mar 2018,04 Mar 2018,270,160.8
+entity6,B,0.66,AED,01 Mar 2018,02 Mar 2018,320,112
+entity7,B,0.80,EUR,01 Mar 2018,02 Mar 2018,350,203.5
